@@ -1,4 +1,4 @@
-git clone https://MR-DITA/scan_site
+git clone https://github.com/MR-DITA/scan_site
 
 
 cd scan_site 
